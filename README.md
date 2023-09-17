@@ -2,7 +2,7 @@
 Learning New stuff
 
 Hello this is me 
-reinitializw git repository 
+reinitializw git repository<br>
 exsisting 
 india is my county 
 and all indians are my brothers and some of them are my so called sister 
